@@ -30,12 +30,15 @@
 
 ### Demo
 
+
+#### Demo only video link - 
+https://drive.google.com/file/d/19NCw0x3y5iwFBvtdSz5V0cnGMWGbO6-c/view?usp=drivesdk
+
+
 ##### Dashboard and AI 
 ![](dashboard.gif.gif)     ![](ai.gif) 
 
 
-##### Demo only video link - 
-https://drive.google.com/file/d/19NCw0x3y5iwFBvtdSz5V0cnGMWGbO6-c/view?usp=drivesdk
 
 #### Build Instructions
 
