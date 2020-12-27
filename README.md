@@ -31,7 +31,7 @@
 ### Demo
 
 ##### Dashboard and AI 
-![](dashboard.gif)     ![](ai.gif) 
+![](dashboard.gif.gif)     ![](ai.gif) 
 
 
 ##### Demo only video link - 
